@@ -1,7 +1,7 @@
 body{
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 300 400 500 600 700;
+  font-weight: 300;
   font-style: normal;
   margin: 0;
   background-color: black;
@@ -77,7 +77,7 @@ a{
   border-radius: 1rem;
   height: 100%;
   margin-top: 0.5rem;
-  padding: o.5rem 0.75rem;
+  padding: 0.5rem 0.75rem;
 }
 
 .options{
